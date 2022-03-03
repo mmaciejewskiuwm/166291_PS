@@ -28,10 +28,10 @@ int main()
 //    return 0;
 //}
 //zad 1.3.3
-//Napisz program, który wczytuje ze standardowego wejœcia trzy liczby
-//ca³kowite i wypisuje na standardowym wyjœciu najwiêksz¹ z ich wartoœci
-//(pamiêtaj o przypadku gdy wszystkie podane liczby lub dwie
-//z nich s¹ równe).
+//Napisz program, ktÃ³ry wczytuje ze standardowego wejÅ›cia trzy liczby
+//caÅ‚kowite i wypisuje na standardowym wyjÅ›ciu najwiÄ™kszÄ… z ich wartoÅ›ci
+//(pamiÄ™taj o przypadku gdy wszystkie podane liczby lub dwie
+//z nich sÄ… rÃ³wne).
 //{
 //   int a,b,c;
 //   printf("daj 3 liczby calkowite \n");
@@ -46,10 +46,10 @@ int main()
 //
 //}
 //zad 1.3.7
-//1.3.7 Napisz program, który wczytuje ze standardowego wejœcia wspó³czynniki
-//równania kwadratowego z jedn¹ niewiadom¹ i wypisuje na standardowym
-//wyjœciu wszystkie rozwi¹zania rzeczywiste tego równania
-//lub odpowiedni¹ informacjê w przypadku braku rozwi¹zañ.
+//1.3.7 Napisz program, ktÃ³ry wczytuje ze standardowego wejÅ›cia wspÃ³Å‚czynniki
+//rÃ³wnania kwadratowego z jednÄ… niewiadomÄ… i wypisuje na standardowym
+//wyjÅ›ciu wszystkie rozwiÄ…zania rzeczywiste tego rÃ³wnania
+//lub odpowiedniÄ… informacjÄ™ w przypadku braku rozwiÄ…zaÅ„.
 //{
 //    float a,b,c;
 //    float rozw1,rozw2,rozw0;
