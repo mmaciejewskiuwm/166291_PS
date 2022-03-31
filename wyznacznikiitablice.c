@@ -13,21 +13,21 @@ int main()
         printf("Liczba elementw musi byc z przedziau [1, %d\n]!", N);
         return 1;
     }
-// Inicjalizuje n pocz ² atkowych elementów tablicy
-// liczbami o warto´sciach z przedzia³u [1..lim]
+// Inicjalizuje n pocz Ë› atkowych elementÃ³w tablicy
+// liczbami o wartoÂ´sciach z przedziaÅ‚u [1..lim]
     short lim = 999;
     srand(time(0)); // inicjalizacja generatora liczb pseudolosowych
     for (short *p = tab; p <tab + n; ++p)
     {
         *p = rand() % lim + 1;
     }
-// Wypisuje n pocz ² atkowych elementów tablicy
+// Wypisuje n pocz Ë› atkowych elementÃ³w tablicy
     for (short *p = tab; p < tab + n; ++p)
     {
         printf("%5d ", *p);
     }
     printf("\n");
-// Modyfikuje n pocz ² atkowych elementów tablicy
+// Modyfikuje n pocz Ë› atkowych elementÃ³w tablicy
     for (short *p = tab; p < tab + n; ++p)
     {
         if (*p <= 0)
@@ -48,7 +48,7 @@ int main()
         }
     }
     printf("\n");
-// Wypisuje n pocz ² atkowych elementów tablicy
+// Wypisuje n pocz Ë› atkowych elementÃ³w tablicy
     for (short *p = tab; p < tab + n; ++p)
     {
         printf("%5d ", *p);
