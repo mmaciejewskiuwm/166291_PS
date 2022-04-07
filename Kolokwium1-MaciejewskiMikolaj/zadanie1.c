@@ -12,11 +12,11 @@ int main()
         printf("Miala byc liczba naturalna!");
         return 0;
     }
-    int tab[n];
+    float tab[n];
     for(int i=0; i<n; i++)
     {
         printf("podaj liczby rzeczywiste\n");
-        scanf("%d",&tab[i]);
+        scanf("%f",&tab[i]);
     }
     for(int i=0; i<n; i++)
     {
