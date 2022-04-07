@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649338645 source:c:\users\local\documents\github\166291_ps\kolokwium1-maciejewskimikolaj\zadanie1\main.c
+	<stdio.h>
+	<stdlib.h>
+
