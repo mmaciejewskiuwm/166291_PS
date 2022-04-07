@@ -6,13 +6,13 @@ int main()
     int n;
     printf("Podaj liczbe naturalna n \n");
     scanf("%d",&n);
-    int tab[n];
     int dod=0,uj=0,zero=0;
     if(n<=0)
     {
         printf("Miala byc liczba naturalna!");
         return 0;
     }
+    int tab[n];
     for(int i=0; i<n; i++)
     {
         printf("podaj liczby rzeczywiste\n");
