@@ -17,7 +17,7 @@ int zadanie2(int n, int m)
 }
 int main()
 {
-    int a=3,b=3;
-    printf("wynik dzialania %d do potegi %d to %d",a,b,zadanie2(a,b));
+    int a=0,b=0;
+    printf("%d",zadanie2(a,b));
     return 0;
 }
